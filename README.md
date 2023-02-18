@@ -23,6 +23,4 @@ Adjusts Disk Caching settings to disable Superfetch and Prefetch.
 
 Adjusts File System settings to disable the last access timestamp feature and optimize NTFS memory usage
 
-and few more tweaks
-
 Please note that running this script may take some time to complete, depending on the size of your hard drive and the amount of data stored on it. Additionally, it's always recommended to backup your data before making any changes to your system.
