@@ -1,5 +1,5 @@
 # Windows-Optimization-Bat-file
-A bat file optimization script that I made with new optimizations from chat gpt
+This is a bat file optimization script that incorporates optimizations from ChatGPT. It performs a range of optimizations to improve system performance and free up disk space.
 
 This script does the following:
 
@@ -23,4 +23,4 @@ Adjusts Disk Caching settings to disable Superfetch and Prefetch.
 
 Adjusts File System settings to disable the last access timestamp feature and optimize NTFS memory usage
 
-Please note that running this script may take some time to complete, depending on the size of your hard drive and the amount of data stored on it. Additionally, it's always recommended to backup your data before making any changes to your system.
+It's important to note that running this script may take some time, depending on the size of your hard drive and the amount of data stored on it. Also, it's highly recommended to backup your data before making any changes to your system.
