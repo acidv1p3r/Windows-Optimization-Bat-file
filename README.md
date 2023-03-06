@@ -1,5 +1,14 @@
+[discord-badge]: https://discord.com/api/guilds/897156326776520736/widget.png?style=shield
+[discord-link]: https://discord.gg/RgZGCqKxAb
+
+<div align="center">
+
 # Windows-Optimization-Bat-file
 This is a bat file optimization script that incorporates optimizations from ChatGPT. It performs a range of optimizations to improve system performance and free up disk space.
+
+[![Discord Server][discord-badge]][discord-link]  
+
+</div>  
 
 This script does the following:
 
