@@ -10,15 +10,13 @@ This is a bat file optimization script that incorporates optimizations from Chat
 
 </div>  
 
-The batch file first checks to make sure that the user running it is an administrator. If not, the batch file will exit.
-
-Next, the batch file creates a backup of the registry keys that will be modified. This is a good safety measure in case anything goes wrong.
+The batch file creates a backup of the registry keys that will be modified. This is a good safety measure in case anything goes wrong.
 
 Then, the batch file deletes temporary files and prefetch files. This can help to free up some space on the hard drive and improve performance.
 
-The next step is to clear the pagefile. This is a portion of memory that is used as a temporary storage area for data. Clearing the pagefile can help to improve performance by freeing up memory that can be used for other tasks.
+Clears the pagefile. This is a portion of memory that is used as a temporary storage area for data. Clearing the pagefile can help to improve performance by freeing up memory that can be used for other tasks.
 
-The batch file then disables Windows visual effects. This can also help to improve performance by reducing the amount of resources that are used by the operating system.
+Disables Windows visual effects. This can also help to improve performance by reducing the amount of resources that are used by the operating system.
 
 Next, the batch file adjusts the Internet settings. This includes disabling certain features that can slow down the internet connection.
 
